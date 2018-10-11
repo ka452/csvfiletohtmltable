@@ -1,3 +1,4 @@
+
 body, html {
     height: 100%;
     margin: 0;
@@ -12,6 +13,10 @@ table {
 th, td {
 
     text-align: left;
-    padding: 20px;s
+    padding: 20px;
     border: 1px solid black;
+}
+th{
+    background-color: bisque;
+
 }
