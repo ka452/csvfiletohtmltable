@@ -1,0 +1,17 @@
+body, html {
+    height: 100%;
+    margin: 0;
+    padding: 0;
+}
+table {
+    border-collapse: collapse;
+    border-spacing: 0;
+    width: 100%;
+    border: 1px solid black;
+}
+th, td {
+
+    text-align: left;
+    padding: 20px;s
+    border: 1px solid black;
+}
